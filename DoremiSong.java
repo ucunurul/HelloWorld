@@ -6,7 +6,6 @@ public class Doremi {
 	for (int i = 0;i<Song.length;i++){
 	
 	System.out.println(Song[i]);
-	System.out.println(Song[i]);
 		}
 
 	}
