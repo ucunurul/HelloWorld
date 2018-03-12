@@ -5,7 +5,7 @@ public class coba {
         int mod = num % 2;
         String modulo = mod == 0 ? "Genap" : "Ganjil";
         
-        System.out.println("Angka " + mod +" Adalah " + modulo);
+        System.out.println("Angka " + num +" Adalah " + modulo);
         
     }
     
