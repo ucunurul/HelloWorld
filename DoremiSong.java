@@ -8,7 +8,7 @@ public class Doremi {
 		System.out.println(Song[i]);
 		}
 
-		System.out.println("\nNext Line ...\n");
+		System.out.println("\nNext Line ....\n");
 
 	for (int j=0;j< Song.length;j++){
 		
