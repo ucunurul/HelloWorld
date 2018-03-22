@@ -1,4 +1,4 @@
-public class coba {
+public class Ternary {
     
     public static void main(String []args){
         int num = 15;
@@ -8,6 +8,4 @@ public class coba {
         System.out.println("Angka " + num +" Adalah " + modulo);
         
     }
-    
-    
 }
