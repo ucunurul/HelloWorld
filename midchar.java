@@ -8,7 +8,7 @@ public class midchar1 {
         
         if(str.length() % 2 == 0{
             position = str.length()/2-1;
-            Length = 2;
+            Length = 1;
         }
            
            Else {
