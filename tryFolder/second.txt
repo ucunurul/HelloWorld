@@ -2,4 +2,5 @@
 ini file ke dua di tryFolder men
 =======
 ini file ke dua di tryFolder men brah
+oke
 >>>>>>> 7b00a5063e69b685aa655e990e5e83842ee0a10a
