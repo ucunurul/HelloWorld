@@ -27,7 +27,7 @@ public class midchar1 {
                    
                    if(str.length() % 2 == 0){
                        Position = str.length()/2-1;
-                       Length = 2;
+                       Length = 3;
                        
                    }else
                        Positon = str.length()/2;
