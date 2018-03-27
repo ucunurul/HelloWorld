@@ -14,7 +14,7 @@ public class midchar1 {
            Else {
                
                Position = str.length()/2;
-               Length = 1;
+               Length = 3;
                
                Return str.substring(position, position + length);
                
