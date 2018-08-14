@@ -5,4 +5,4 @@ Hello World, let's code guys!
 >>>>>>> branch-4
 Percobaan stash
 
-Earshad commit
+Earshad Change
